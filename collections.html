@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SIREN Collections</title>
+  <meta name="description" content="Browse the full SIREN lineup of high-end, custom-designed speakers that combine sound, structure, and soul." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner container">
+      <a class="brand" href="index.html">
+        <img src="assets/logo.svg" alt="SIREN logo" />
+        <div>
+          <div class="name">SIREN</div>
+          <div class="tag">SOUND, STRUCTURE AND SOUL</div>
+        </div>
+      </a>
+      <nav class="nav">
+        <a href="collections.html" class="active">Collections</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="about/philosophy.html">About</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Banner -->
+  <section class="hero">
+    <img src="assets/hero.jpg" alt="SIREN Collections" />
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="h1">Collections</h1>
+      <p class="h2">Explore all 14 models of SIREN loudspeakers</p>
+    </div>
+  </section>
+
+  <!-- Product Grid -->
+  <section class="section container">
+    <h3>Our Lineup</h3>
+    <div id="products" class="grid">
+      <!-- Products will be injected dynamically by script.js -->
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer container">
+    <div style="display:flex;gap:16px;justify-content:space-between;flex-wrap:wrap">
+      <div>&copy; <span id="year"></span> SIREN. All rights reserved.</div>
+      <div class="small">Sound, Structure and Soul.</div>
+    </div>
+  </footer>
+
+<script src="script.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", loadProducts);
+</script>
+</body>
+</html>
