@@ -1,0 +1,100 @@
+[
+  {
+    "id": "bumble",
+    "name": "Bumble Series 1",
+    "description": "Flagship hexagonal array with panda marble base and active DSP. Built to order.",
+    "image": "assets/bumble.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian Prime (O.P.)",
+    "description": "Towering 2.5 m loudspeaker with dual 12″ woofers and Bliesma tweeter. Obsidian gloss cabinet.",
+    "image": "assets/obsidian.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "kathara",
+    "name": "Kathara Series",
+    "description": "Multi-dimensional angular geometry with horn array options. Hand-finished.",
+    "image": "assets/kathara.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "siren-horn",
+    "name": "SIREN Horn",
+    "description": "Crystalline horn architecture for breathtaking dynamics and detail.",
+    "image": "assets/siren.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora Horn",
+    "description": "Golden-horn multi-driver system with faceted geometry for dynamic, room-filling sound.",
+    "image": "assets/aurora.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "elysium",
+    "name": "Elysium Flow",
+    "description": "Organic sculptural form with illuminated wave lines and immersive multidriver array.",
+    "image": "assets/elysium.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "obelisk",
+    "name": "Obelisk Diamond",
+    "description": "Precision-engineered diamond-cut tower delivering clarity and power in equal measure.",
+    "image": "assets/obelisk.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "cathedral",
+    "name": "Cathedral Array",
+    "description": "Monumental vertical array with horn-loaded drivers, designed for concert-level scale.",
+    "image": "assets/cathedral.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "sator",
+    "name": "Sator Monolith",
+    "description": "Compact but powerful geometric tower, blending minimalism with authority.",
+    "image": "assets/sator.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "orridian",
+    "name": "Orridian Twins",
+    "description": "Symmetrical sculpted pair with glowing edges, optimized for balanced stereo presence.",
+    "image": "assets/orridian.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "fluid",
+    "name": "Fluid Wave",
+    "description": "Smooth, flowing silhouette wrapped in bronze base, crafted for timeless elegance.",
+    "image": "assets/fluid.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal Spire",
+    "description": "Transparent faceted body, creating a crystalline sonic sculpture.",
+    "image": "assets/crystal.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "monochrome",
+    "name": "Monochrome Prism",
+    "description": "Abstract black-and-white geometric statement piece with bold sound.",
+    "image": "assets/monochrome.jpg",
+    "paymentLink": ""
+  },
+  {
+    "id": "hexabloom",
+    "name": "HexaBloom",
+    "description": "Six-petal honeycomb array on marble base, merging natural form with acoustic precision.",
+    "image": "assets/hexabloom.jpg",
+    "paymentLink": ""
+  }
+]
