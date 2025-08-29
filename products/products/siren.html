@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bumble Series 1 — SIREN</title>
+  <meta name="description" content="Flagship hexagonal array with panda marble base and active DSP. Built to order." />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner container">
+      <a class="brand" href="../index.html">
+        <img src="../assets/logo.svg" alt="SIREN logo" />
+        <div><div class="name">SIREN</div><div class="tag">SOUND, STRUCTURE AND SOUL</div></div>
+      </a>
+      <nav class="nav">
+        <a href="../collections.html">Collections</a>
+        <a href="../gallery.html">Gallery</a>
+        <a href="../blog.html">Blog</a>
+        <a href="../about/philosophy.html">About</a>
+        <a href="../contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <img src="../assets/bumble.jpg" alt="Bumble Series 1" />
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="h1">Bumble Series 1</h1>
+      <p class="h2">Flagship hexagonal array with panda marble base and active DSP. Built to order.</p>
+    </div>
+  </section>
+
+  <section class="section container">
+    <h3>About the Bumble Series 1</h3>
+    <p>The Bumble Series 1 represents the pinnacle of SIREN design. Featuring a unique hexagonal array,
+       a luxurious panda marble base, and cutting-edge active DSP, it offers breathtaking musical fidelity
+       while doubling as a sculptural centerpiece for any space.</p>
+    <div style="margin-top:24px;">
+      <button class="btn" onclick="buyNow('')">Buy Now</button>
+      <a class="btn sec" href="../contact.html">Enquire</a>
+    </div>
+    <p class="small" style="margin-top:10px;">Replace the <code>buyNow('')</code> link with your Stripe Payment Link.</p>
+  </section>
+
+  <footer class="footer container">
+    <div>&copy; <span id="year"></span> SIREN. All rights reserved.</div>
+  </footer>
+
+<script src="../script.js"></script>
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>
